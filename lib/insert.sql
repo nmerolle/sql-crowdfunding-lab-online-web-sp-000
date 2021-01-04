@@ -58,7 +58,7 @@ INSERT INTO pledges (id, amount, user_id, project_id) VALUES
 INSERT INTO pledges (id, amount, user_id, project_id) VALUES
 INSERT INTO pledges (id, amount, user_id, project_id) VALUES
 INSERT INTO pledges (id, amount, user_id, project_id) VALUES
-,,(9, 50.00, 7, 9),(10, 700.00, 8, 8),(11, 1000.00, 8, 7),(12, 40.00, 9, 6),
+,,,(10, 700.00, 8, 8),(11, 1000.00, 8, 7),(12, 40.00, 9, 6),
 (13, 50.00, 9, 3),(14, 50.00, 10, 4),(15, 24.00, 12, 1),(16, 34.00, 11, 1),(17, 12.00, 13, 6),(18, 19.00, 14, 5),
 (19, 20.00, 15, 5),(20, 40.00, 16, 6),
 (21, 35.50, 17, 7),(22, 40.00, 18, 8),
