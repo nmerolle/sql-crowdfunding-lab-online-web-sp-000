@@ -15,7 +15,7 @@ INSERT INTO users (id, name, age) VALUES (14, 'Sirius', 36)
 INSERT INTO users (id, name, age) VALUES (15, 'Albus', 113)
 INSERT INTO users (id, name, age) VALUES (16, 'Squid', 5)
 INSERT INTO users (id, name, age) VALUES (17, 'Whale', 6)
-INSERT INTO users (id, name, age) VALUES 
+INSERT INTO users (id, name, age) VALUES (18, 'Pacha', 5)
 INSERT INTO users (id, name, age) VALUES
 INSERT INTO users (id, name, age) VALUES, , , ,
 , , , , , ,
