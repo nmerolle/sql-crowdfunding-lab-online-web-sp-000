@@ -10,8 +10,8 @@ INSERT INTO users (id, name, age) VALUES (9, 'Franz', 100)
 INSERT INTO users (id, name, age) VALUES (10, 'Hermione', 30)
 INSERT INTO users (id, name, age) VALUES (11, 'Voldemort', 90)
 INSERT INTO users (id, name, age) VALUES (12, 'Marisa', 24)
+INSERT INTO users (id, name, age) VALUES (13, 'Swizzle', 4)
 INSERT INTO users (id, name, age) VALUES 
-INSERT INTO users (id, name, age) VALUES
 INSERT INTO users (id, name, age) VALUES
 INSERT INTO users (id, name, age) VALUES
 INSERT INTO users (id, name, age) VALUES
