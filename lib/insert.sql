@@ -12,8 +12,8 @@ INSERT INTO users (id, name, age) VALUES (11, 'Voldemort', 90)
 INSERT INTO users (id, name, age) VALUES (12, 'Marisa', 24)
 INSERT INTO users (id, name, age) VALUES (13, 'Swizzle', 4)
 INSERT INTO users (id, name, age) VALUES (14, 'Sirius', 36)
+INSERT INTO users (id, name, age) VALUES (15, 'Albus', 113)
 INSERT INTO users (id, name, age) VALUES 
-INSERT INTO users (id, name, age) VALUES
 INSERT INTO users (id, name, age) VALUES
 INSERT INTO users (id, name, age) VALUES
 INSERT INTO users (id, name, age) VALUES
