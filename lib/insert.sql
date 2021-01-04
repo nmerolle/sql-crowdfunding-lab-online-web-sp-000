@@ -6,8 +6,8 @@ INSERT INTO users (id, name, age) VALUES (5, 'Amanda', 24)
 INSERT INTO users (id, name, age) VALUES (6, 'Sophie', 24)
 INSERT INTO users (id, name, age) VALUES (7, 'Rosey', 9)
 INSERT INTO users (id, name, age) VALUES (8, 'Victoria', 23)
+INSERT INTO users (id, name, age) VALUES (9, 'Franz', 100)
 INSERT INTO users (id, name, age) VALUES 
-INSERT INTO users (id, name, age) VALUES
 INSERT INTO users (id, name, age) VALUES
 INSERT INTO users (id, name, age) VALUES
 INSERT INTO users (id, name, age) VALUES
