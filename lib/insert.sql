@@ -20,4 +20,4 @@ INSERT INTO users (id, name, age) VALUES
 INSERT INTO users (id, name, age) VALUES, , , ,
 , , , , , ,
 , , , , ,,
-, (18, 'Pacha', 5), (19, 'Ena', 24), (20, 'Katie', 24);
+, , (19, 'Ena', 24), (20, 'Katie', 24);
